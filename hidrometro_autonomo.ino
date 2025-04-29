@@ -126,3 +126,5 @@ void loop() {
 
   delay(1000);  // Aguarda 1 segundo antes de verificar novamente
 }
+
+// Melhorias e Ajustes
